@@ -331,6 +331,10 @@
 		0887347C28F0CCDD00458627 /* LottieAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0887347428F0CCDD00458627 /* LottieAnimationView.swift */; };
 		0887347D28F0CCDD00458627 /* LottieAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0887347428F0CCDD00458627 /* LottieAnimationView.swift */; };
 		089C50C22ABA0C6D007903D3 /* LoggingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089C50C12ABA0C6D007903D3 /* LoggingTests.swift */; };
+		089E5D9F2B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089E5D9E2B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift */; };
+		089E5DA02B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089E5D9E2B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift */; };
+		089E5DA12B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089E5D9E2B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift */; };
+		089E5DA22B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089E5D9E2B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift */; };
 		08AB05552A61C20400DE86FD /* ReducedMotionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AB05542A61C20400DE86FD /* ReducedMotionOption.swift */; };
 		08AB05562A61C20400DE86FD /* ReducedMotionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AB05542A61C20400DE86FD /* ReducedMotionOption.swift */; };
 		08AB05572A61C20400DE86FD /* ReducedMotionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AB05542A61C20400DE86FD /* ReducedMotionOption.swift */; };
@@ -340,6 +344,10 @@
 		08AB055D2A61C5CC00DE86FD /* RenderingEngineOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AB055C2A61C5CC00DE86FD /* RenderingEngineOption.swift */; };
 		08AB055E2A61C5CC00DE86FD /* RenderingEngineOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AB055C2A61C5CC00DE86FD /* RenderingEngineOption.swift */; };
 		08AB055F2A61C5CC00DE86FD /* RenderingEngineOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AB055C2A61C5CC00DE86FD /* RenderingEngineOption.swift */; };
+		08BCA8472B0E8E0B00594EEB /* LRUCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08BCA8452B0E8E0B00594EEB /* LRUCache.swift */; };
+		08BCA8482B0E8E0B00594EEB /* LRUCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08BCA8452B0E8E0B00594EEB /* LRUCache.swift */; };
+		08BCA8492B0E8E0B00594EEB /* LRUCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08BCA8452B0E8E0B00594EEB /* LRUCache.swift */; };
+		08BCA84A2B0E8E0B00594EEB /* LRUCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08BCA8452B0E8E0B00594EEB /* LRUCache.swift */; };
 		08C001F32A46150D00AB54BA /* Archive+Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C001E02A46150D00AB54BA /* Archive+Helpers.swift */; };
 		08C001F42A46150D00AB54BA /* Archive+MemoryFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C001E12A46150D00AB54BA /* Archive+MemoryFile.swift */; };
 		08C001F52A46150D00AB54BA /* Archive+BackingConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08C001E22A46150D00AB54BA /* Archive+BackingConfiguration.swift */; };
@@ -552,6 +560,10 @@
 		08F8B20F2898A7B100CB5323 /* RepeaterLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F8B20C2898A7B100CB5323 /* RepeaterLayer.swift */; };
 		08F8B211289990B700CB5323 /* Samples in Resources */ = {isa = PBXBuildFile; fileRef = 08F8B210289990B700CB5323 /* Samples */; };
 		08F8B213289990CB00CB5323 /* SnapshotTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F8B212289990CB00CB5323 /* SnapshotTests.swift */; };
+		08FB47C62B23B86500744478 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 08FB47C52B23B86500744478 /* PrivacyInfo.xcprivacy */; };
+		08FB47C72B23B86500744478 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 08FB47C52B23B86500744478 /* PrivacyInfo.xcprivacy */; };
+		08FB47C82B23B86500744478 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 08FB47C52B23B86500744478 /* PrivacyInfo.xcprivacy */; };
+		08FB47C92B23B86500744478 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 08FB47C52B23B86500744478 /* PrivacyInfo.xcprivacy */; };
 		08FE934E28F4CCAC00D3A7E6 /* InfiniteOpaqueAnimationLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08FE934D28F4CCAC00D3A7E6 /* InfiniteOpaqueAnimationLayer.swift */; };
 		08FE934F28F4CCAC00D3A7E6 /* InfiniteOpaqueAnimationLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08FE934D28F4CCAC00D3A7E6 /* InfiniteOpaqueAnimationLayer.swift */; };
 		08FE935028F4CCAC00D3A7E6 /* InfiniteOpaqueAnimationLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08FE934D28F4CCAC00D3A7E6 /* InfiniteOpaqueAnimationLayer.swift */; };
@@ -1178,9 +1190,12 @@
 		0887347328F0CCDD00458627 /* LottieAnimationViewInitializers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LottieAnimationViewInitializers.swift; sourceTree = "<group>"; };
 		0887347428F0CCDD00458627 /* LottieAnimationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LottieAnimationView.swift; sourceTree = "<group>"; };
 		089C50C12ABA0C6D007903D3 /* LoggingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoggingTests.swift; sourceTree = "<group>"; };
+		089E5D9E2B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Keyframes+timeRemapping.swift"; sourceTree = "<group>"; };
 		08AB05542A61C20400DE86FD /* ReducedMotionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReducedMotionOption.swift; sourceTree = "<group>"; };
 		08AB05582A61C5B700DE86FD /* DecodingStrategy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodingStrategy.swift; sourceTree = "<group>"; };
 		08AB055C2A61C5CC00DE86FD /* RenderingEngineOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RenderingEngineOption.swift; sourceTree = "<group>"; };
+		08BCA8452B0E8E0B00594EEB /* LRUCache.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LRUCache.swift; sourceTree = "<group>"; };
+		08BCA8462B0E8E0B00594EEB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		08C001E02A46150D00AB54BA /* Archive+Helpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Archive+Helpers.swift"; sourceTree = "<group>"; };
 		08C001E12A46150D00AB54BA /* Archive+MemoryFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Archive+MemoryFile.swift"; sourceTree = "<group>"; };
 		08C001E22A46150D00AB54BA /* Archive+BackingConfiguration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Archive+BackingConfiguration.swift"; sourceTree = "<group>"; };
@@ -1257,6 +1272,7 @@
 		08F8B20C2898A7B100CB5323 /* RepeaterLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeaterLayer.swift; sourceTree = "<group>"; };
 		08F8B210289990B700CB5323 /* Samples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Samples; sourceTree = "<group>"; };
 		08F8B212289990CB00CB5323 /* SnapshotTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapshotTests.swift; sourceTree = "<group>"; };
+		08FB47C52B23B86500744478 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = Sources/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		08FE934D28F4CCAC00D3A7E6 /* InfiniteOpaqueAnimationLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfiniteOpaqueAnimationLayer.swift; sourceTree = "<group>"; };
 		19465F51282F998B00BB2C97 /* CachedImageProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CachedImageProvider.swift; sourceTree = "<group>"; };
 		2E044E262820536800FA773B /* AutomaticEngineTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutomaticEngineTests.swift; sourceTree = "<group>"; };
@@ -1553,12 +1569,22 @@
 			path = Configuration;
 			sourceTree = "<group>";
 		};
+		08BCA8442B0E8E0B00594EEB /* LRUCache */ = {
+			isa = PBXGroup;
+			children = (
+				08BCA8452B0E8E0B00594EEB /* LRUCache.swift */,
+				08BCA8462B0E8E0B00594EEB /* README.md */,
+			);
+			path = LRUCache;
+			sourceTree = "<group>";
+		};
 		08C001DE2A4614CF00AB54BA /* EmbeddedLibraries */ = {
 			isa = PBXGroup;
 			children = (
 				08C002062A46152200AB54BA /* README.md */,
 				08C0021E2A46166400AB54BA /* EpoxyCore */,
 				08C001DF2A46150D00AB54BA /* ZipFoundation */,
+				08BCA8442B0E8E0B00594EEB /* LRUCache */,
 			);
 			path = EmbeddedLibraries;
 			sourceTree = "<group>";
@@ -1722,6 +1748,7 @@
 			children = (
 				2EAF59C027A0798600E00531 /* Sources */,
 				2E8040BA27A07343006E74CB /* Tests */,
+				08FB47C52B23B86500744478 /* PrivacyInfo.xcprivacy */,
 				2E80409B27A0725D006E74CB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -2123,6 +2150,7 @@
 				2E9C95AA2822F43100677516 /* CALayer+fillBounds.swift */,
 				2E9C95AB2822F43100677516 /* Keyframes+combined.swift */,
 				2E9C95AC2822F43100677516 /* KeyframeGroup+exactlyOneKeyframe.swift */,
+				089E5D9E2B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -2616,6 +2644,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08FB47C92B23B86500744478 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2623,6 +2652,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08FB47C62B23B86500744478 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2639,6 +2669,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08FB47C72B23B86500744478 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2646,6 +2677,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08FB47C82B23B86500744478 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2876,6 +2908,7 @@
 				080DEFFE2A95712400BE2D96 /* GradientAnimations.swift in Sources */,
 				080DF03C2A95715900BE2D96 /* Star.swift in Sources */,
 				080DEFD32A95711400BE2D96 /* Entry+Serialization.swift in Sources */,
+				08BCA84A2B0E8E0B00594EEB /* LRUCache.swift in Sources */,
 				080DF01D2A95713B00BE2D96 /* StarNode.swift in Sources */,
 				080DEFB02A9570FE00BE2D96 /* AnimatedProviding.swift in Sources */,
 				080DEFC72A95710F00BE2D96 /* EpoxyableView.swift in Sources */,
@@ -2915,6 +2948,7 @@
 				080DEFB12A9570FE00BE2D96 /* WillDisplayProviding.swift in Sources */,
 				080DEFE82A95711E00BE2D96 /* ImageLayer.swift in Sources */,
 				080DF0672A95717600BE2D96 /* AnimatorNodeDebugging.swift in Sources */,
+				089E5DA22B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift in Sources */,
 				080DEFAC2A9570FE00BE2D96 /* StyleIDProviding.swift in Sources */,
 				080DF0002A95712400BE2D96 /* CombinedShapeAnimation.swift in Sources */,
 				080DEFD42A95711400BE2D96 /* Archive+Helpers.swift in Sources */,
@@ -2977,6 +3011,7 @@
 				0887346F28F0CBDE00458627 /* LottieAnimation.swift in Sources */,
 				08C002002A46150D00AB54BA /* Data+CompressionDeprecated.swift in Sources */,
 				0820D5B82A8BF159007D705C /* DropShadowStyle.swift in Sources */,
+				089E5D9F2B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift in Sources */,
 				2E9C97412822F43100677516 /* TestHelpers.swift in Sources */,
 				08EF21DC289C643B0097EA47 /* KeyframeInterpolator.swift in Sources */,
 				2E9C96152822F43100677516 /* Transform.swift in Sources */,
@@ -3175,6 +3210,7 @@
 				2E9C96242822F43100677516 /* KeyframeGroup.swift in Sources */,
 				2E9C96FF2822F43100677516 /* BaseAnimationLayer.swift in Sources */,
 				08E206F72A56014E002DCE17 /* Collection+Diff.swift in Sources */,
+				08BCA8472B0E8E0B00594EEB /* LRUCache.swift in Sources */,
 				08C001F62A46150D00AB54BA /* Archive.swift in Sources */,
 				2E9C96AB2822F43100677516 /* GradientStrokeNode.swift in Sources */,
 				08E2071B2A56014E002DCE17 /* EpoxySwiftUIHostingView.swift in Sources */,
@@ -3290,6 +3326,7 @@
 				2E9C966D2822F43100677516 /* LayerImageProvider.swift in Sources */,
 				2EAF5ABD27A0798700E00531 /* FilepathImageProvider.swift in Sources */,
 				2EAF5AEA27A0798700E00531 /* AnimationTextProvider.swift in Sources */,
+				089E5DA02B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift in Sources */,
 				08E206FE2A56014E002DCE17 /* Diffable.swift in Sources */,
 				2E9C96672822F43100677516 /* LayerTransformNode.swift in Sources */,
 				0887347028F0CBDE00458627 /* LottieAnimation.swift in Sources */,
@@ -3488,6 +3525,7 @@
 				2EAF5AC327A0798700E00531 /* BundleImageProvider.swift in Sources */,
 				08AB055A2A61C5B700DE86FD /* DecodingStrategy.swift in Sources */,
 				08E207492A56014E002DCE17 /* AnimatedProviding.swift in Sources */,
+				08BCA8482B0E8E0B00594EEB /* LRUCache.swift in Sources */,
 				2E9C976C2822F43100677516 /* InterpolatableExtensions.swift in Sources */,
 				2E9C96EE2822F43100677516 /* ShapeItemLayer.swift in Sources */,
 				08C002D62A46196300AB54BA /* Data+CompressionDeprecated.swift in Sources */,
@@ -3577,6 +3615,7 @@
 				0887347128F0CBDE00458627 /* LottieAnimation.swift in Sources */,
 				2E9C97432822F43100677516 /* TestHelpers.swift in Sources */,
 				0820D5BA2A8BF159007D705C /* DropShadowStyle.swift in Sources */,
+				089E5DA12B4CCD3F00F4F836 /* Keyframes+timeRemapping.swift in Sources */,
 				08EF21DE289C643B0097EA47 /* KeyframeInterpolator.swift in Sources */,
 				2E9C96172822F43100677516 /* Transform.swift in Sources */,
 				2E9C97492822F43100677516 /* CGFloatExtensions.swift in Sources */,
@@ -3775,6 +3814,7 @@
 				2E9C97012822F43100677516 /* BaseAnimationLayer.swift in Sources */,
 				2E9C96AD2822F43100677516 /* GradientStrokeNode.swift in Sources */,
 				08E206F92A56014E002DCE17 /* Collection+Diff.swift in Sources */,
+				08BCA8492B0E8E0B00594EEB /* LRUCache.swift in Sources */,
 				2EAF5AC427A0798700E00531 /* BundleImageProvider.swift in Sources */,
 				08E2071D2A56014E002DCE17 /* EpoxySwiftUIHostingView.swift in Sources */,
 				2E9C976D2822F43100677516 /* InterpolatableExtensions.swift in Sources */,
@@ -4047,7 +4087,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -4080,7 +4120,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -4157,7 +4197,7 @@
 					"@executable_path/../Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.0;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++17";
@@ -4191,7 +4231,7 @@
 					"@executable_path/../Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.0;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++17";
@@ -4234,7 +4274,7 @@
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 11.0;
+				TVOS_DEPLOYMENT_TARGET = 13.0;
 			};
 			name = Debug;
 		};
@@ -4268,7 +4308,7 @@
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 11.0;
+				TVOS_DEPLOYMENT_TARGET = 13.0;
 			};
 			name = Release;
 		};
